@@ -190,6 +190,10 @@ footer{
     margin-top: 20px;
 }
 
+.space-4x{
+    margin-top: 40px;
+}
+
 /*root elements*/
 ::-webkit-scrollbar{
     width: 12px;
